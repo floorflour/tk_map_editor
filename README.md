@@ -37,7 +37,7 @@
 
 - 使用ctrl+滚轮调整界面大小
 
-![Alt Text](https://pic1.imgdb.cn/item/67a24bacd0e0a243d4fbd8a7.gif)
+![Alt Text](https://pic.superbed.cc/item/67a29c11fa9f77b4dc80c6e6.gif)
 
 ### 连接节点
 
@@ -47,25 +47,25 @@
 - 再次左键点击主节点，或者右键点击任意位置退出**选中模式**
 - **中继点**的默认名称“◇”会在首次有两个相邻节点时自动变化
 
-![Alt Text](https://pic1.imgdb.cn/item/67a258b1d0e0a243d4fbd96f.gif)
+![Alt Text](https://pic.superbed.cc/item/67a29c11fa9f77b4dc80c6dc.gif)
 
 ### 修改属性
 
 - 进入**选中模式**后，可以再在下方修改其全名，经济值，防御值
   - 会随时保存
 
-![Alt txt](https://pic1.imgdb.cn/item/67a26cddd0e0a243d4fbd9f5.gif)
+![Alt txt](https://pic.superbed.cc/item/67a29c11fa9f77b4dc80c6d5.gif)
 
 ### 导出项目
 
 - 点击文件-导出，将项目导出到erb文件
   - 如果有**中继点**的名称依然为默认名称，则会产生警告（该警告说明有中继点没有连接超过两个其他节点）
 
-![Alt txt](https://pic1.imgdb.cn/item/67a29a6cd0e0a243d4fbdab7.gif)
+![Alt txt](https://pic.superbed.cc/item/67a29c11fa9f77b4dc80c6f5.gif)
 
 ### 导入项目
 
 - 点击文件-导入，将erb文件导入到程序中
   - 以该程序导出的erb文件和MAP_DEFAULT.erb为标准模板解析
 
-![Alt txt](https://pic1.imgdb.cn/item/67a26e09d0e0a243d4fbd9f7.gif)
+![Alt txt](https://pic.superbed.cc/item/67a29c11fa9f77b4dc80c6d2.gif)
